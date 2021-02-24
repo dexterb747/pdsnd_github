@@ -5,7 +5,7 @@ Include the date you created this project and README file. This file was created
 Replace the Project Title. My first git project.
 
 ### Description
-Describe what your project is about and what it does
+Describe what your project is about and what it does. This project will help build skills in Git
 
 ### Files used
 Include the files used
