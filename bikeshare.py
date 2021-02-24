@@ -39,7 +39,7 @@ def get_filters():
         else:
             print ('Invalid month entered\n')
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+    # get user input for day of week (all, monday, tuesday, ... sunday). These are just 7 days.
     day = ''
     while day.lower() not in days or day.lower() != 'all':
         day = input('Please enter a day from monday to sunday OR all for the 7 days\n')
