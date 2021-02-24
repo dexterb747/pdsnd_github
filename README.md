@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+Include the date you created this project and README file. This file was created on 22-FEB-2021.
 
 ### Project Title
-Replace the Project Title
+Replace the Project Title. My first git project.
 
 ### Description
 Describe what your project is about and what it does
