@@ -2,7 +2,7 @@ import time
 import pandas as pd
 import numpy as np
 
-# define global objects
+# define global objects. These global objects can be used by other local functions.
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
